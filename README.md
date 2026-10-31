@@ -1,2 +1,3 @@
-# electronics-exploration
-An electronics project
+# Electronics Exploration
+
+Work in progress...
